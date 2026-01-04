@@ -66,7 +66,7 @@ These competitions are **VOID WHERE PROHIBITED OR RESTRICTED BY LAW**. We reserv
 
 ### 4.1 Account Creation
 To use SkirmishBot, you must:
-- Link your Discord account to our Service
+- Link your Discord account to our Service using Valotracker
 - Provide accurate and complete registration information
 - Maintain the security of your account credentials
 - Notify us immediately of any unauthorized access
