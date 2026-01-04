@@ -91,8 +91,8 @@ You may maintain only **ONE ACCOUNT**. Creating multiple accounts to circumvent 
 - Tickets have no cash value and cannot be transferred or sold
 
 ### 5.2 Tournament Entry Fees
-- Each tournament tier requires a specific number of tickets to enter
-- Entry fees are deducted from your ticket balance upon joining a tournament
+- Each tournament/match tier requires a specific number of tickets to enter
+- Entry fees are deducted from your ticket balance upon joining a queue and starting a tournament/match
 - Entry fees are **non-refundable** once a tournament has started
 
 ### 5.3 Prize Winnings
@@ -139,7 +139,8 @@ We reserve the right to withhold taxes from your winnings as required by applica
 
 ### 7.1 Competition Format
 - Tournaments are single-elimination brackets (4 or 8 players)
-- Match results are reported by participants
+- Match results are reported by participants using our report + confirm system
+- Continued failure to report matches accurately, or continuous failure to report matches in general will result in ban from our service
 - Disputes are resolved by our moderation team
 - **All decisions by moderation team are final**
 
